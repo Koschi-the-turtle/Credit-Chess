@@ -1,6 +1,9 @@
 # CREDIT CHESS
 
-<img width="1919" height="1079" alt="Capture d&#39;écran 2026-04-28 203241" src="https://github.com/user-attachments/assets/c7c20a4a-b4e5-4624-a38b-6a251b843965" />
+
+https://github.com/user-attachments/assets/33b24087-ad4e-4906-9936-940cf16738e4
+
+
 
 Chess is very complex game which requires a lot of reflexion, beating your opponent requires imagining possible scenarios as far as possible in time, in order to counter your opponent's moves.
 
@@ -16,7 +19,9 @@ You could say it's a kind of educational game for kids (just now thinking I forg
 # Income, balance and debt
 At the top and bottom of the chess board you'll find your Balance, Debt and Upkeep values.
 Every of their turn, players gain a certain amount of money:
+
  Money = number of pawns * 220$
+ 
 but they also lose a certain amount for upkeep/maintenance:
 
   Upkeep = number of Knights * 199$ + number of Rooks and Bishops * 120$ + number of Queens * 499$ + King * 295$
