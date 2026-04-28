@@ -26,7 +26,8 @@ You also gain money by capturing your opponent's pieces following this set of pr
 - Rook & Bishop = 296$
 - Queen = 2468$
 
-You can go into debt pretty safely, as long as it stays under 10 000 $
+# Bankrupcy
+You can be in debt without really being affected in any way, however, if you reach 10 000$ in debt, you automatically loose by bankrupcy, so your opponent wins.
 
 # Sell pieces (aka human trafficking)
 On the bottom left corner of the interface, you'll find a button called "Sell Piece",
@@ -38,6 +39,13 @@ it allows you to select one of your pieces and sell them for money following thi
 - Queen = 1234$
 
 You can sell as many pieces a you want each turn.
+
+# Buy pieces
+You can also buy pieces if you have the money.
+The piece's buying price is the same as the capture reward, not the sell price.
+Normally I should have made it so that you could only buy back pieces you lost during the game,
+but honestly it won't be as chaotic it that was the case, which means more work for less fun, so it's not worth it
+
 
 # Buy tiles
 Just over the Sell Piece button, the Buy tiles button allows you to purchase any of the current empty tiles on the board for 199$, 
