@@ -1,8 +1,10 @@
 # CREDIT CHESS
 Chess is very complex game which requires a lot of reflexion, beating your opponent requires imagining possible scenarios as far as possible in time, in order to counter your opponent's moves.
+
 However, I'm genuinely crap at chess, therefore, to avoid getting beaten by 8 year olds on chess.com, I decided to make my own chess game, with my own rules.
 
 Credit chess implements a new array of complex mechanics : Finance
+
 My game combines chess with real life problems like taxes, loans, rent and more.
 You could say it's a kind of educational game for kids (just now thinking I forgot to implement gambling too)
 
