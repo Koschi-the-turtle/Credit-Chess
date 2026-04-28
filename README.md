@@ -1,4 +1,7 @@
 # CREDIT CHESS
+
+<img width="1919" height="1079" alt="Capture d&#39;écran 2026-04-28 203241" src="https://github.com/user-attachments/assets/c7c20a4a-b4e5-4624-a38b-6a251b843965" />
+
 Chess is very complex game which requires a lot of reflexion, beating your opponent requires imagining possible scenarios as far as possible in time, in order to counter your opponent's moves.
 
 However, I'm genuinely crap at chess, therefore, to avoid getting beaten by 8 year olds on chess.com, I decided to make my own chess game, with my own rules.
@@ -30,6 +33,9 @@ You also gain money by capturing your opponent's pieces following this set of pr
 You can be in debt without really being affected in any way, however, if you reach 10 000$ in debt, you automatically loose by bankrupcy, so your opponent wins.
 
 # Sell pieces (aka human trafficking)
+
+<img width="1918" height="1078" alt="sell_piece_demo" src="https://github.com/user-attachments/assets/afa2f06e-69ce-47b6-91c3-39dfc8bbe8d3" />
+
 On the bottom left corner of the interface, you'll find a button called "Sell Piece",
 it allows you to select one of your pieces and sell them for money following this set of prices: (different from capture prices)
 
@@ -41,6 +47,9 @@ it allows you to select one of your pieces and sell them for money following thi
 You can sell as many pieces a you want each turn.
 
 # Buy pieces
+
+<img width="1918" height="1078" alt="buy_piece_demo" src="https://github.com/user-attachments/assets/7042fa5d-9673-4063-a286-151742e545bb" />
+
 You can also buy pieces if you have the money.
 The piece's buying price is the same as the capture reward, not the sell price.
 Normally I should have made it so that you could only buy back pieces you lost during the game,
@@ -48,12 +57,18 @@ but honestly it won't be as chaotic it that was the case, which means more work 
 
 
 # Buy tiles
+
+<img width="1918" height="1078" alt="buy_tile_demo" src="https://github.com/user-attachments/assets/7c09b667-d814-42c9-ae73-5104ee395823" />
+
 Just over the Sell Piece button, the Buy tiles button allows you to purchase any of the current empty tiles on the board for 199$, 
 and each turn, if your opponent puts or keeps a piece on that tile, he must pay you rent, equal to 112$.
 However, there is no symbol, text or color marking the tile, so the enemy must remember which tile he must avoid to keep his money.
 Also, if the owner of one or more tiles goes into debt, all his properties get immediately sold for rent price (112$), yes, all of them, even if only a few $ in debt.
 
 # Bank (or your tax evasion associate)
+
+<img width="1918" height="1078" alt="bank_demo" src="https://github.com/user-attachments/assets/add0971a-83b2-4e6b-a76d-ea02674cde56" />
+
 The Bank allows you to either invest, loan or withdraw a certain amount of money which you input in the Input field.
 You can invest as much as you want of your own money, and every turn you'll get a 5% return, however, you can only withdraw your money 5 turns minimum
 after you invested it. You can also loan up to 10 000$, but you'll have to pay back 10% of it within 10 turns, then the next 10% within the next 10 etc.
@@ -66,6 +81,9 @@ which is not that bad honestly.
 oh and also, the money invested in the bank isn't taxed, because, well, you made a deal with the bank so that they keep it secret...
 
 # Taxes
+
+<img width="1918" height="1078" alt="taxes_demo" src="https://github.com/user-attachments/assets/565feca7-6102-45d8-8947-3dd763e6e112" />
+
 Every 10 turns, both players must pay a certain amount of money:
 
   Tax = 20% of (player balance + amount of pieces * 3 + number of rented tiles * rent price)
